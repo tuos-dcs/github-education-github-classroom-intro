@@ -11,11 +11,10 @@ Your journey begins in Module 3. This module expects you to be fairly familiar w
 ## Work at your own pace
 There is no grade for this training and no one reviews your work, so feel free to explore at your own pace. We hope the training will help you get started with Git, and GitHub.
 
-## The Modules
-Please feel free to skip modules if you want but some modules do rely on examples created in previous modules.
+## The Module
 
-- Module 3 "Setup Git Classroom"
-- Module 4 "Advanced stuff"
+- Module 3 "GitHub Classroom"
+
 
 ## When you are finished
 
