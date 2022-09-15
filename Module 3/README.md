@@ -15,6 +15,7 @@ Welcome to Module 3! In this module, you will be introduced to GitHub Classroom.
 
 ### Module 3.0: Overview of GitHub Classroom
 📺  [ Module 3.0 Video](https://youtu.be/CXacEwR9trw)  
+This video lays out what you should know already (What was covered in modules 1 and 2) and gives an intro to the rest of the modules. Skip if you want.
 
 ### Module 3.1: Get started with GitHub Classroom by creating your first organization and Classroom
 📺  [ Module 3.1 Video](https://www.youtube.com/watch?v=KXWXg68KpTY)  
